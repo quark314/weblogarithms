@@ -1,2 +1,2 @@
 # weblogarithms
-blog
+Captain's Web Log_10
